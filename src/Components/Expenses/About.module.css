@@ -1,0 +1,22 @@
+.moto {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: 0px;
+    margin-right: 26rem;
+    font-family: cursive;
+    color: #06d6a0;
+    font-size :xx-large;
+  }
+
+  .moto h2{
+    color: black;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    font-family: cursive;
+    font-size: x-large;
+  }
+
+  
